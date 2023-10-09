@@ -4,7 +4,7 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleZen&layout=compact&bg_color=242938&hide_border=true&border_radius=20px&hide_title=true&text_color=bebebe"/><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nodejs,js,css,replit,vercel" />
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,js,css,supabase,vercel" />
   </a>
 </p>
 <p align="center">
